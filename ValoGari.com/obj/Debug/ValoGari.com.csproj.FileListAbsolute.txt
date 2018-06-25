@@ -1,0 +1,15 @@
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\bin\Debug\ValoGari.com.exe.config
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\bin\Debug\ValoGari.com.exe
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\bin\Debug\ValoGari.com.pdb
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.csprojResolveAssemblyReference.cache
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.frmBrand.resources
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.frmMain.resources
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.frmNew.resources
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.frmVehicle.resources
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.InputBox.resources
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.Properties.Resources.resources
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.csproj.GenerateResource.cache
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.csproj.CoreCompileInputs.cache
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.exe
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.pdb
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ValoGari.com\obj\Debug\ValoGari.com.frmOld.resources

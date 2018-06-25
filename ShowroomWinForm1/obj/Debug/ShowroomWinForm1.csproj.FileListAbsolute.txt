@@ -1,0 +1,16 @@
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.csprojResolveAssemblyReference.cache
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.frmMain.resources
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.InputBox.resources
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.Properties.Resources.resources
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.csproj.GenerateResource.cache
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.csproj.CoreCompileInputs.cache
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\bin\Debug\ShowroomWinForm1.exe.config
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\bin\Debug\ShowroomWinForm1.exe
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\bin\Debug\ShowroomWinForm1.pdb
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.csproj.CopyComplete
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.exe
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.pdb
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.frmBrand.resources
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomWinForm1\obj\Debug\ShowroomWinForm1.FrmVehicle.resources

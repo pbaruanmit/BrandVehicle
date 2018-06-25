@@ -1,0 +1,16 @@
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\obj\Debug\ShowroomSelfhost.csproj.CoreCompileInputs.cache
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\ShowroomSelfhost.exe.config
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\ShowroomSelfhost.exe
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\ShowroomSelfhost.pdb
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\System.Web.Http.dll
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\System.Web.Http.xml
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\obj\Debug\ShowroomSelfhost.csproj.CopyComplete
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\obj\Debug\ShowroomSelfhost.exe
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\obj\Debug\ShowroomSelfhost.pdb
+C:\Users\Djuice\Documents\Visual Studio 2017\Projects\ValoGari.com\ShowroomSelfhost\obj\Debug\ShowroomSelfhost.csprojResolveAssemblyReference.cache
